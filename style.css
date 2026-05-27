@@ -8,6 +8,8 @@ Here are the base CSS styles to start with.
 body {
   font-family: Arial, Helvetica, sans-serif;
   color: #222;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .emoji {
